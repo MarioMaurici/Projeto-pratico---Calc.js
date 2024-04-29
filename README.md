@@ -26,7 +26,7 @@ A calculadora tem um `<buttom>` com a utilidade de mudar a o tema da página e u
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://projeto-pratico-calc-js.vercel.app).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
