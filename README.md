@@ -1,4 +1,4 @@
-![calculadoraWeb feita com JavaScript](./image.png)
+![calculadoraWeb feita com JavaScript](./github/image.png)
 
 # calc.js
 
